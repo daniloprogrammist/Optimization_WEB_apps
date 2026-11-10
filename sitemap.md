@@ -40,7 +40,7 @@ FAQ	Частые вопросы	Как купить билет? Как смот�
 
 Пример MindMap / схемы навигации:
 
- ![Рисунок 1](https://github.com/PolinaShavrina/-web--/blob/main/photo/Рисунок1.png)
+ ![Рисунок 1](https://github.com/daniloprogrammist/-web--/blob/main/photo/Рисунок1.png)
 
 
 https://polinashavrina.github.io/online-theatre/
@@ -49,25 +49,25 @@ https://polinashavrina.github.io/online-theatre/
 ```markdown
 | № | Раздел | Подразделы | Пример URL | Частота | Приоритет |
 |---|--------|------------|------------|---------|-----------|
-| 1 | Главная | – | https://polinashavrina.github.io/online-theatre/ | daily | 1.0 |
-| 2 | Афиша | – | https://polinashavrina.github.io/online-theatre/afisha.html | daily | 0.9 |
-| 2.1 | Афиша | Афиша -> Жанры (Список жанров) | https://polinashavrina.github.io/online-theatre/genres.html | weekly | 0.8 |
-| 2.2 | Афиша | Афиша -> Жанры -> Спектакли (Драма / Комедия / Балет / Опера / Детские) | https://polinashavrina.github.io/online-theatre/genre.html | weekly | 0.7 |
-| 2.3 | Афиша | Афиша -> Спектакль (Карточка спектакля) | https://polinashavrina.github.io/online-theatre/play.html | weekly | 0.9 |
-| 2.4 | Афиша | Афиша -> Расписание (Календарь показов) | https://polinashavrina.github.io/online-theatre/schedule.html | daily | 0.8 |
-| 2.5 | Афиша | Афиша -> Отзывы (Отзывы зрителей) | https://polinashavrina.github.io/online-theatre/reviews.html | weekly | 0.6 |
-| 3 | Корзина | – | https://polinashavrina.github.io/online-theatre/cart.html | monthly | 0.5 |
-| 4 | Оплата | – | https://polinashavrina.github.io/online-theatre/checkout.html | monthly | 0.5 |
-| 5 | Новости | Список новостей | https://polinashavrina.github.io/online-theatre/news.html | daily | 0.8 |
-| 5.1 | Новости | Новости -> Новость (Детальная страница) | https://polinashavrina.github.io/online-theatre/news-item.html | weekly | 0.7 |
-| 6 | Блог | Список статей | https://polinashavrina.github.io/online-theatre/blog.html | weekly | 0.7 |
-| 6.1 | Блог | Блог -> Статья (Детальная страница) | https://polinashavrina.github.io/online-theatre/blog-item.html | monthly | 0.6 |
-| 7 | FAQ | – | https://polinashavrina.github.io/online-theatre/faq.html | monthly | 0.6 |
-| 8 | О театре | – | https://polinashavrina.github.io/online-theatre/about.html | monthly | 0.7 |
-| 9 | Контакты | – | https://polinashavrina.github.io/online-theatre/contacts.html | monthly | 0.6 |
-| 10 | Личный кабинет | – | https://polinashavrina.github.io/online-theatre/account.html | weekly | 0.4 |
-| 10.1 | Личный кабинет | Личный кабинет -> Вход | https://polinashavrina.github.io/online-theatre/login.html | yearly | 0.3 |
-| 10.2 | Личный кабинет | Личный кабинет -> Регистрация | https://polinashavrina.github.io/online-theatre/register.html | yearly | 0.3 |
+| 1 | Главная | – | https://daniloprogrammist.github.io/online-theatre/ | daily | 1.0 |
+| 2 | Афиша | – | https://daniloprogrammist.github.io/online-theatre/afisha.html | daily | 0.9 |
+| 2.1 | Афиша | Афиша -> Жанры (Список жанров) | https://daniloprogrammist.github.io/online-theatre/genres.html | weekly | 0.8 |
+| 2.2 | Афиша | Афиша -> Жанры -> Спектакли (Драма / Комедия / Балет / Опера / Детские) | https:/daniloprogrammist.github.io/online-theatre/genre.html | weekly | 0.7 |
+| 2.3 | Афиша | Афиша -> Спектакль (Карточка спектакля) | https://daniloprogrammist.github.io/online-theatre/play.html | weekly | 0.9 |
+| 2.4 | Афиша | Афиша -> Расписание (Календарь показов) | https://daniloprogrammist.github.io/online-theatre/schedule.html | daily | 0.8 |
+| 2.5 | Афиша | Афиша -> Отзывы (Отзывы зрителей) | https://daniloprogrammist.github.io/online-theatre/reviews.html | weekly | 0.6 |
+| 3 | Корзина | – | https://daniloprogrammist.github.io/online-theatre/cart.html | monthly | 0.5 |
+| 4 | Оплата | – | https://daniloprogrammist.github.io/online-theatre/checkout.html | monthly | 0.5 |
+| 5 | Новости | Список новостей | https://daniloprogrammist.github.io/online-theatre/news.html | daily | 0.8 |
+| 5.1 | Новости | Новости -> Новость (Детальная страница) | https://daniloprogrammist.github.io/online-theatre/news-item.html | weekly | 0.7 |
+| 6 | Блог | Список статей | https://daniloprogrammist.github.io/online-theatre/blog.html | weekly | 0.7 |
+| 6.1 | Блог | Блог -> Статья (Детальная страница) | https://daniloprogrammist.github.io/online-theatre/blog-item.html | monthly | 0.6 |
+| 7 | FAQ | – | https://daniloprogrammist.github.io/online-theatre/faq.html | monthly | 0.6 |
+| 8 | О театре | – | https://daniloprogrammist.github.io/online-theatre/about.html | monthly | 0.7 |
+| 9 | Контакты | – | https://daniloprogrammist.github.io/online-theatre/contacts.html | monthly | 0.6 |
+| 10 | Личный кабинет | – | https://daniloprogrammist.github.io/online-theatre/account.html | weekly | 0.4 |
+| 10.1 | Личный кабинет | Личный кабинет -> Вход | https://daniloprogrammist.github.io/online-theatre/login.html | yearly | 0.3 |
+| 10.2 | Личный кабинет | Личный кабинет -> Регистрация | https://daniloprogrammist.github.io/online-theatre/register.html | yearly | 0.3 |
 ```
 
 
@@ -75,115 +75,115 @@ https://polinashavrina.github.io/online-theatre/
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/afisha.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/afisha.html</loc>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/genres.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/genres.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/genre.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/genre.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/play.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/play.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/schedule.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/schedule.html</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/reviews.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/reviews.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/cart.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/cart.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/checkout.html</loc>
+        <loc>https://daniloprogrammista.github.io/online-theatre/checkout.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/news.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/news.html</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/news-item.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/news-item.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/blog.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/blog.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/blog-item.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/blog-item.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/faq.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/faq.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/about.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/about.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/contacts.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/contacts.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/account.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/account.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.4</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/login.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/login.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
 
     <url>
-        <loc>https://polinashavrina.github.io/online-theatre/register.html</loc>
+        <loc>https://daniloprogrammist.github.io/online-theatre/register.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -191,9 +191,9 @@ https://polinashavrina.github.io/online-theatre/
 </urlset>
 
  
-![picture](https://github.com/PolinaShavrina/-web--/blob/main/photo/Рисунок2.png)
+![picture](https://github.com/daniloprogrammist/-web--/blob/main/photo/Рисунок2.png)
 
- ![picture](https://github.com/PolinaShavrina/-web--/blob/main/photo/Рисунок3.png)
+ ![picture](https://github.com/daniloprogrammist/-web--/blob/main/photo/Рисунок3.png)
 
 
 Вопросы.
